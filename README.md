@@ -1,38 +1,64 @@
-# Welcome to Test profile! <a href="https://www.test/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to my GitHub!! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/aswin-barath/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/banafshesalehian/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" />
+</a>
 &nbsp;
-<a href="https://twitter.com/AswinBarath2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=sXDtHKgAAAAJ&hl=en" target="_blank">
+  Google Scholar
+</a>
 &nbsp;
-<a href="https://www.instagram.com/aswin_barath_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100011683902531" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
-&nbsp;
+<a href="mailto:bsalehian@hotmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30" />
+</a>
 
+## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=BanafsheSalehian.BanafsheSalehian)
 
+I’m a machine learning researcher passionate about building intelligent and interpretable systems that support critical decisions — especially in healthcare.
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
-
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
-
-As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
-
-That's why I like to make things that make a difference.
+My work spans medical AI, deep learning, signal processing, and predictive modeling.  
+I’m driven by research that translates into meaningful clinical impact.
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
+---
 
-### Talking about Personal Stuff:
+### 🧠 A Bit About Me
 
-- 👨‍🎓 I'm a **Senior Software Engineering Student**
-- 🔭 I’m currently working on [JU Query](https://github.com/AswinBarath/ju-query) platform
-- 👨‍🏫 I'm the **Community Leader** at [Codecademy JU](https://community.codecademy.com/jain-university-ju/)
-- 💬 Ask me about anything, I am happy to help
-- ✍ I'm a **Technical blogger** with 10,000+ user reads
-- 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/aswinb/)
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
-- 👯 Join my [community](https://community.codecademy.com/jain-university-ju/) if you're a tech enthusiast
-- 📬 How to reach me: [aswin2001barath@gmail.com](mailto:aswin2001barath@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
-- 💪 This is where I write, code and solve problems:
+- 🎓 Postdoctoral Research Fellow @ **ÉTS Montréal (LATIS Lab)**  
+- 🧬 Research Associate @ **University of Ottawa**  
+- 🏥 Collaborating with **CHU Sainte-Justine Hospital** on pediatric critical care research  
+- 📊 Leading machine learning efforts to support **red blood cell transfusion decisions** in critically ill children  
+- 🔬 PhD in Artificial Intelligence (ÉTS Montréal)  
+- 🧠 Experienced in **machine learning**, **deep learning**, **interpretable models**, and **time-series & signal analysis**
+- 🖥 Skilled in **high-performance computing (SLURM / Calcul Québec)**
+
+---
+
+### 🚧 Current Projects
+
+- 🩸 Explainable AI for personalized **red blood cell transfusion decision support**
+- 👶 Infant cry-based diagnostic modeling using **deep learning** and **audio analysis**
+- ⚙️ Researching **Tabular Transformers**, time-series analysis, and **low-rank fine-tuning**
+- 📉 Addressing class imbalance, missing data, and feature leakage in medical datasets
+
+---
+
+### 🛠 Tech & Tools
+
+- **Languages**: Python, MATLAB, Bash  
+- **ML/DL**: PyTorch, XGBoost, Scikit-learn, SHAP, HuggingFace  
+- **Audio**: CNNs, VGGish, RMS, Zero-Crossing Rate  
+- **Data & HPC**: Pandas, NumPy, SLURM, Calcul Québec  
+- **Writing & Collaboration**: Overleaf, LaTeX, Git, Jupyter  
+
+---
+
+### 📫 How to Reach Me
+- 📧 [bsalehian@hotmail.com](mailto:bsalehian@hotmail.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/banafshesalehian/)  
+- 📝 [Resume (CV)](https://drive.google.com/file/d/1ZRfysso2_R2O19vQb3EJZSenPGiKAtA5/view?usp=sharing)
+
+---
+
+✨ Always happy to connect and collaborate on research in AI for health, audio signal analysis, or interpretable ML. Let’s make something meaningful!
